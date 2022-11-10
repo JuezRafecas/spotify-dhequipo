@@ -5,7 +5,7 @@ spring:
     name: api-music
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/spotify-dev
+    url: jdbc:mysql://localhost:3306/spotify
     username: dh
     password: root
   jpa:
